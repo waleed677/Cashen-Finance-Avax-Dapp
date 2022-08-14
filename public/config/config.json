@@ -1,15 +1,15 @@
 {
-  "CONTRACT_ADDRESS": "0xe635Bd48F69276D6f52cc2e577E5DdecCf16B79c",
-  "SCAN_LINK": "https://etherscan.io/address/0xe635Bd48F69276D6f52cc2e577E5DdecCf16B79c",
+  "CONTRACT_ADDRESS": "0xc086097a6B485CE06f40b95D68Db79752697B53b",
+  "SCAN_LINK": "https://testnet.snowtrace.io/address/0xc086097a6B485CE06f40b95D68Db79752697B53b",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Fuji Avalanche",
+    "SYMBOL": "AVAX",
+    "ID": 43113
   },
-  "NETWORK_ID_WALLET" :1,
-  "NFT_NAME": "Aceminers NFT",
-  "SYMBOL": "AM",
-  "MAX_SUPPLY": 1500 ,
+  "NETWORK_ID_WALLET" :43113,
+  "NFT_NAME": "CaishenFinance NFT",
+  "SYMBOL": "CFNT",
+  "MAX_SUPPLY": 5000  ,
   "WEI_COST_OG": 100000000000000000,
   "DISPLAY_COST_OG": 0.1,
   "WEI_COST_WL": 180000000000000000,
